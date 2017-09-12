@@ -1,0 +1,43 @@
+body {
+background-color: lightblue;
+
+}
+ h1{color: black;}
+
+ ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #111
+    ;
+ }
+
+ li {
+     float: ;}
+
+
+ li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px 30px;
+    text-decoration: none;
+ }
+
+ li a:hover:not(.active) {
+    background-color:#111;
+ }
+
+ .active {background-color: #4CAF50;
+ }
+
+
+.persoonlijke-tekst
+  {
+margin: 0 auto;
+width: 600px;
+text-align: left;
+  }
+
+#menu{float:left;}
