@@ -26,7 +26,7 @@ background-color: lightblue;
  }
 
  li a:hover:not(.active) {
-    background-color:#111;
+    background-color:#111
  }
 
  .active {background-color: #4CAF50;
@@ -39,5 +39,16 @@ margin: 0 auto;
 width: 600px;
 text-align: left;
   }
+#menu{float:right;}
 
-#menu{float:left;}
+ img{float: right}
+
+.menu{
+  display: inline-block;
+}
+
+#foto-van-mij
+{  float: left;
+  width: 200px;
+  height: 300px;}
+#garnalen {width: 300px;  height: 300px;}
